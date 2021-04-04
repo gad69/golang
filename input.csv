@@ -1,0 +1,87 @@
+,Identifier,Total Loc,Methods,Type,
+,Proxy01,93,5,Calculation,
+,Proxy02,112,1,Calculation,
+,Proxy03,79,1,Calculation,
+,Proxy04,126,6,Calculation,
+,Proxy05,68,1,Calculation,
+,Proxy06,128,6,Calculation,
+,Proxy07,141,3,Calculation,
+,Proxy08,142,1,Calculation,
+,Proxy09,58,6,Calculation,
+,Proxy10,79,3,Calculation,
+,Proxy11,95,5,Data,
+,Proxy12,127,4,Data,
+,Proxy13,90,6,Data,
+,Proxy14,122,5,Data,
+,Proxy15,97,5,Data,
+,Proxy16,131,5,Data,
+,Proxy17,118,3,Data,
+,Proxy18,122,5,Data,
+,Proxy19,42,4,Data,
+,Proxy20,107,4,Data,
+,Proxy21,94,6,Data,
+,Proxy22,131,6,Data,
+,Proxy23,89,5,Data,
+,Proxy24,125,5,I/O,
+,Proxy25,106,7,I/O,
+,Proxy26,92,10,I/O,
+,Proxy27,101,8,I/O,
+,Proxy28,38,5,I/O,
+,Proxy29,104,3,I/O,
+,Proxy30,26,5,I/O,
+,Proxy31,75,2,I/O,
+,Proxy32,114,2,I/O,
+,Proxy33,90,6,I/O,
+,,,,,
+,,,,,
+,Identifier,Est. LOC (LOCe),Actual LOC (LOCa),Est. Duration (De),Actual Duration (Da)
+,Project1,124,98,360,300
+,Project2,360,284,900,720
+,Project3,229,292,540,720
+,Project4,321,286,840,780
+,Project5,279,350,720,900
+,Project6,352,464,780,1380
+,Project7,297,381,780,1020
+,Project8,263,369,660,960
+,Project9,357,365,900,900
+,Project10,311,284,780,720
+,Project11,341,277,840,600
+,Project12,153,212,420,480
+,Project13,390,319,1020,720
+,Project14,260,218,660,540
+,Project15,215,238,540,600
+,Project16,468,312,1200,660
+,Project17,528,676,1260,1620
+,Project18,232,266,600,840
+,Project19,304,225,780,600
+,Project20,459,395,1080,1080
+,,,,,
+Project History:  The following describes the to-date percentages for development time and defects.,,,,,
+,Phase,Time in Phase To Date %,Defects Injected To Date %,Defects Removed To Date %,
+,Planning,14%,0%,0%,
+,Design,21%,1%,2%,
+,Code,3%,77%,7%,
+,Compile,3%,1%,25%,
+,Test,57%,21%,66%,
+,Postmortem,2%,0%,0%,
+,Total  ,100%,100%,100%,
+,,,,,
+"New Development:  The following information pertains to new development.  Specifically, it notes that the new development will build from pre-existing code, with some deletions and modifications.  New proxies (whether additions to the base code or totally new functionality) are also specified.",,,,,
+,Base Program LOC,,,,
+,,Base Size (B),369,,
+,,LOC Deleted (D),14,,
+,,LOC Modified (M),14,,
+,,,,,
+,Object LOC (BA),,,,
+,,Base Additions,Methods,Similar to,
+,,BA1,6,Proxy08,
+,,BA2,2,Proxy27,
+,,,,,
+,New Objects (NO),,,,
+,,New Objects,Methods,Similar to,
+,,NO0,5,Proxy17,
+,,NO1,2,Proxy14,
+,,NO2,4,Proxy20,
+,,NO3,3,Proxy18,
+,,NO4,5,Proxy01,
+,,NO5,7,Proxy05,
