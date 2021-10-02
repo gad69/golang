@@ -59,5 +59,6 @@ func main() {
 	}
 	fmt.Printf("the vaue of bo is %f \n", get_bo(X, Y, n))
 	fmt.Printf("the vaue of b1 is %f \n", get_b1(X, Y, n))
+	fmt.Printf("the vaue of b1 is %f \n", get_b1(X, Y, n))
 
 }
